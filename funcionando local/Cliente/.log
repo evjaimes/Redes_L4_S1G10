@@ -1,0 +1,344 @@
+INFO:
+
+October 06, 2020 - 20:22:43
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 65000)
+INFO:* --> [Client] Finished Downloading
+INFO:* --> [Client] File downloaded completely and without modifications
+INFO:* --> [Cliente] Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": "0",
+        "digested": "0",
+        "size": "0"
+    },
+    "video": {
+        "block": 64,
+        "digested": "'7ddd6659ff5d14bd09b6e2e02b762c7f476419bb61e6050a3097f54d'",
+        "size": 28
+    }
+}
+INFO:* --> [Cliente] Server Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": 64,
+        "digested": "f194290f625980faa50111cf522b30eaf8ce44018bc67b46156c266a",
+        "size": 28
+    },
+    "video": {
+        "block": 64,
+        "digested": "7ddd6659ff5d14bd09b6e2e02b762c7f476419bb61e6050a3097f54d",
+        "size": 28
+    }
+}
+INFO:* --> [Client] Connection Elapsed Time:
+* --> 38.091612 seconds
+INFO:--> [Client] Connection finished
+
+INFO:
+
+October 06, 2020 - 20:24:59
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 65000)
+INFO:* --> [Client] Finished Downloading
+INFO:* --> [Client] File downloaded completely and without modifications
+INFO:* --> [Cliente] Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": "0",
+        "digested": "0",
+        "size": "0"
+    },
+    "video": {
+        "block": 64,
+        "digested": "'7ddd6659ff5d14bd09b6e2e02b762c7f476419bb61e6050a3097f54d'",
+        "size": 28
+    }
+}
+INFO:* --> [Cliente] Server Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": 64,
+        "digested": "f194290f625980faa50111cf522b30eaf8ce44018bc67b46156c266a",
+        "size": 28
+    },
+    "video": {
+        "block": 64,
+        "digested": "7ddd6659ff5d14bd09b6e2e02b762c7f476419bb61e6050a3097f54d",
+        "size": 28
+    }
+}
+INFO:* --> [Client] Connection Elapsed Time:
+* --> 22.779073 seconds
+INFO:--> [Client] Connection finished
+
+INFO:
+
+October 06, 2020 - 20:26:59
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 65000)
+INFO:* --> [Client] Finished Downloading
+INFO:* --> [Client] File downloaded completely and without modifications
+INFO:* --> [Cliente] Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": "0",
+        "digested": "0",
+        "size": "0"
+    },
+    "video": {
+        "block": 64,
+        "digested": "'7ddd6659ff5d14bd09b6e2e02b762c7f476419bb61e6050a3097f54d'",
+        "size": 28
+    }
+}
+INFO:* --> [Cliente] Server Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": 64,
+        "digested": "f194290f625980faa50111cf522b30eaf8ce44018bc67b46156c266a",
+        "size": 28
+    },
+    "video": {
+        "block": 64,
+        "digested": "7ddd6659ff5d14bd09b6e2e02b762c7f476419bb61e6050a3097f54d",
+        "size": 28
+    }
+}
+INFO:* --> [Client] Connection Elapsed Time:
+* --> 29.790394 seconds
+INFO:--> [Client] Connection finished
+
+INFO:
+
+October 06, 2020 - 20:28:09
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 65000)
+INFO:* --> [Client] Finished Downloading
+INFO:* --> [Client] File downloaded completely and without modifications
+INFO:* --> [Cliente] Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": 64,
+        "digested": "'f194290f625980faa50111cf522b30eaf8ce44018bc67b46156c266a'",
+        "size": 28
+    },
+    "video": {
+        "block": "0",
+        "digested": "0",
+        "size": "0"
+    }
+}
+INFO:* --> [Cliente] Server Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": 64,
+        "digested": "f194290f625980faa50111cf522b30eaf8ce44018bc67b46156c266a",
+        "size": 28
+    },
+    "video": {
+        "block": 64,
+        "digested": "7ddd6659ff5d14bd09b6e2e02b762c7f476419bb61e6050a3097f54d",
+        "size": 28
+    }
+}
+INFO:* --> [Client] Connection Elapsed Time:
+* --> 9.740406 seconds
+INFO:--> [Client] Connection finished
+
+INFO:
+
+October 27, 2020 - 12:06:37
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 65000)
+INFO:
+
+October 27, 2020 - 12:15:31
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 65000)
+INFO:
+
+October 27, 2020 - 12:16:30
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 65000)
+INFO:
+
+October 27, 2020 - 19:33:57
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 19:45:51
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 19:46:43
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 19:48:53
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 19:54:53
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:03:22
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:05:51
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:09:58
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:13:14
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:14:29
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:18:08
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:30:49
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:31:25
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:31:57
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:32:26
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:33:07
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:36:19
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:39:58
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:43:11
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:43:46
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:56:13
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:57:34
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 20:59:28
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 21:02:17
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 21:05:48
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 21:07:41
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 21:08:04
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 21:09:06
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)
+INFO:
+
+October 27, 2020 - 21:12:54
+
+INFO:
+--> [Client] Connection Established with Server ('localhost', 1813)

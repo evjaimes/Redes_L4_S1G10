@@ -1,0 +1,114 @@
+INFO:
+
+October 06, 2020 - 21:22:54
+
+INFO:
+--> [Client] Connection Established with Server ('ec2-52-90-237-68.compute-1.amazonaws.com', 65000)
+INFO:* --> [Client] Finished Downloading
+INFO:* --> [Client] File downloaded completely and without modifications
+INFO:* --> [Cliente] Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": "0",
+        "digested": "0",
+        "size": "0"
+    },
+    "video": {
+        "block": 64,
+        "digested": "'f5374ea6f3dacf6422a5c334361961419d502dd4d24f7a9cffc20bb6'",
+        "size": 28
+    }
+}
+INFO:* --> [Cliente] Server Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": 64,
+        "digested": "f194290f625980faa50111cf522b30eaf8ce44018bc67b46156c266a",
+        "size": 28
+    },
+    "video": {
+        "block": 64,
+        "digested": "7ddd6659ff5d14bd09b6e2e02b762c7f476419bb61e6050a3097f54d",
+        "size": 28
+    }
+}
+INFO:* --> [Client] Connection Elapsed Time:
+* --> 77.132510 seconds
+INFO:--> [Client] Connection finished
+
+INFO:
+
+October 06, 2020 - 21:25:51
+
+INFO:
+--> [Client] Connection Established with Server ('ec2-52-90-237-68.compute-1.amazonaws.com', 65000)
+INFO:* --> [Client] Finished Downloading
+INFO:* --> [Client] File downloaded completely and without modifications
+INFO:* --> [Cliente] Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": "0",
+        "digested": "0",
+        "size": "0"
+    },
+    "video": {
+        "block": 64,
+        "digested": "'7ddd6659ff5d14bd09b6e2e02b762c7f476419bb61e6050a3097f54d'",
+        "size": 28
+    }
+}
+INFO:* --> [Cliente] Server Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": 64,
+        "digested": "f194290f625980faa50111cf522b30eaf8ce44018bc67b46156c266a",
+        "size": 28
+    },
+    "video": {
+        "block": 64,
+        "digested": "7ddd6659ff5d14bd09b6e2e02b762c7f476419bb61e6050a3097f54d",
+        "size": 28
+    }
+}
+INFO:* --> [Client] Connection Elapsed Time:
+* --> 144.380660 seconds
+INFO:--> [Client] Connection finished
+
+INFO:
+
+October 06, 2020 - 21:30:22
+
+INFO:
+--> [Client] Connection Established with Server ('ec2-52-90-237-68.compute-1.amazonaws.com', 65000)
+INFO:* --> [Client] Finished Downloading
+INFO:* --> [Client] File downloaded completely and without modifications
+INFO:* --> [Cliente] Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": 64,
+        "digested": "'f194290f625980faa50111cf522b30eaf8ce44018bc67b46156c266a'",
+        "size": 28
+    },
+    "video": {
+        "block": "0",
+        "digested": "0",
+        "size": "0"
+    }
+}
+INFO:* --> [Cliente] Server Hash {
+    "algorithm": "sha224",
+    "book": {
+        "block": 64,
+        "digested": "f194290f625980faa50111cf522b30eaf8ce44018bc67b46156c266a",
+        "size": 28
+    },
+    "video": {
+        "block": 64,
+        "digested": "7ddd6659ff5d14bd09b6e2e02b762c7f476419bb61e6050a3097f54d",
+        "size": 28
+    }
+}
+INFO:* --> [Client] Connection Elapsed Time:
+* --> 44.641758 seconds
+INFO:--> [Client] Connection finished
+
